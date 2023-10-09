@@ -1,5 +1,8 @@
+faiss-cpu
 llama-index
 llama-hub
+pinecone-client
 pypdf
 python-dotenv
 sentence_transformers
+transformers
