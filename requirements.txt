@@ -1,3 +1,4 @@
+llama-index
 pypdf
 python-dotenv
-llama-index
+sentence_transformers
